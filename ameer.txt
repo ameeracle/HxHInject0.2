@@ -1,0 +1,18 @@
+------------[ DLL Scanner .Script Example ]------------
+ncrypt.dll
+CRYPTBASE.dll
+CRYPT32.dll
+KERNEL32.DLL
+SHLWAPI.dll
+USER32.dll
+WINHTTP.dll
+ntdll.dll
+ole32.dll
+advapi32.dll
+crypt32.dll
+kernel32.dll
+oleaut32.dll
+pstorec.dll
+rasapi32.dll
+shell32.dll
+user32.dll
