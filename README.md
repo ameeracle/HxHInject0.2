@@ -36,4 +36,4 @@
 * For scanning 64bit processes run "HxHInject 0.2.x64" File .
 * Close All Running Applictions manually (not by Any Processes Explorar like PH or ProcMon ...etc)
  -- Exmple : Internet Download Manager -> Right-Click => Exit .
-* For More Deeper Scanning Run Application with Adminastrator Privileges ( NOT necessary ) .
+* For More Deeper Scanning Run Application with Adminastrator Privileges ( NOT Necessary ) .
