@@ -2,7 +2,7 @@
 ![alt text](https://raw.githubusercontent.com/ServerDotApk/HxHInject0.2/master/gture.JPG)
 
 # Settings
-* MAnge Your Scan Result .. 
+* Mange Your Scan Result .. 
 ![alt text](https://raw.githubusercontent.com/ServerDotApk/HxHInject0.2/master/gui7.JPG)
 
 # Result
