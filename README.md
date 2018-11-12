@@ -30,3 +30,10 @@
 * Export the Report ..
 ![alt text](https://raw.githubusercontent.com/ServerDotApk/HxHInject0.2/master/thumbnails/gui5.JPG)
 
+# Required
+* All Files(*.exe ,*.dll ,Settings.ini , ameer.txt) should be exsisting in the same Directory ..
+* For scanning 32bit processes run "HxHInject 0.2.x86" File .
+* For scanning 64bit processes run "HxHInject 0.2.x64" File .
+* Close All Running Applictions manually (not by Any Processes Explorar like PH or ProcMon ...etc)
+ -- Exmple : Internet Download Manager -> Right-Click => Exit .
+* For More Deeper Scanning Run Application with Adminastrator Privileges ( NOT necessary ) .
